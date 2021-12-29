@@ -1,6 +1,6 @@
-# Colemak Geek
+# Colemak Geek 紫光双拼 
 
-修改自百度官方的 [Android L](http://r6.mo.baidu.com/web/is/v/231) 皮肤。兼容 Android 和 iOS。
+fork自TsFreddie的 [BaiduIME-Skin-Colemak-Geek](https://github.com/TsFreddie/BaiduIME-Skin-Colemak-Geek) 皮肤 
 
 _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and Symbian) with Colemak layout and full symbols support.
 
@@ -37,3 +37,11 @@ _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and
 * S60 v5/Symbian^3：点击输入法面板上熊头logo，进入“主题/皮肤”，在皮肤页中，选择您要启用的皮肤布局。 iPhone：进入输入法设置项，进入超级皮肤 ，在布局页中选择您要启用的皮肤布局。
 
 _（以上文字摘自百度官方）_
+
+
+
+# 功能介绍
+* 26拼音下的英文上下数字符号变成双拼声母韵母
+
+# demo
+![](./demo.png)
