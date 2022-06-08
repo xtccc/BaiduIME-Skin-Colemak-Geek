@@ -1,3 +1,3 @@
-﻿Name=Colemak Geek
+﻿Name=Colemak xtcc
 Style=default
 SupportPlatform=SWIA

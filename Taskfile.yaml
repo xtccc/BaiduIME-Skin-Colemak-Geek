@@ -1,0 +1,11 @@
+# https://taskfile.dev
+
+version: "3"
+
+tasks:
+  default:
+    dir : bds_source
+    cmds: 
+      - rm -f Colemak.xtcc.bds
+      - zip -r Colemak.xtcc.bds ./*
+      - mv Colemak.xtcc.bds ..
