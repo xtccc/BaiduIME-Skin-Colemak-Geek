@@ -17,6 +17,7 @@ _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and
 * 方法1：将下载的皮肤布局文件（.bds）拷贝到手机任意位置，使用手机文件浏览器，以“百度输入法”打开，系统自动安装（部分android手机不支持后缀关联.请使用以下两种方法）
 * 方法2：将下载的皮肤布局文件（.bds）放到指定目录。 【Android目录】：`sdcard/baidu/ime/skins` 【S60 V5/Symbian^3目录】：`手机存储/baidu/input/touchskin`
   * 如果手机没有对应的目录， 可以先手动随便建立一个自己的自定义皮肤，百度输入法就会建立对应的路径了(`sdcard/baidu/ime/skins`)
+* 新版本安卓目录在 `/sdcard/Android/data/com.baidu.input/files/ime/skins` 需要root权限才能复制
 
 ### iPhone
 
